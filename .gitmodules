@@ -1,0 +1,6 @@
+[submodule "applications/zabbix-papercut"]
+	path = applications/zabbix-papercut
+	url = https://github.com/Airler/zabbix-papercut.git
+[submodule "applications/zabbix-runecast"]
+	path = applications/zabbix-runecast
+	url = https://github.com/Airler/zabbix-runecast.git
