@@ -4,3 +4,12 @@
 [submodule "applications/zabbix-runecast"]
 	path = applications/zabbix-runecast
 	url = https://github.com/Airler/zabbix-runecast.git
+[submodule "iot/sensors/zabbix-inveo-nano-temp"]
+	path = iot/sensors/zabbix-inveo-nano-temp
+	url = https://github.com/Airler/zabbix-inveo-nano-temp.git
+[submodule "telephony/sbc/zabbix-audiocodes-gateway-and-sbc"]
+	path = telephony/sbc/zabbix-audiocodes-gateway-and-sbc
+	url = https://github.com/Airler/zabbix-audiocodes-gateway-and-sbc.git
+[submodule "iot/sensors/zabbix-brickstream-3d-gen-2"]
+	path = iot/sensors/zabbix-brickstream-3d-gen-2
+	url = https://github.com/Airler/zabbix-brickstream-3d-gen-2.git
