@@ -13,3 +13,6 @@
 [submodule "iot/sensors/zabbix-brickstream-3d-gen-2"]
 	path = iot/sensors/zabbix-brickstream-3d-gen-2
 	url = https://github.com/Airler/zabbix-brickstream-3d-gen-2.git
+[submodule "iot/ip-camera/zabbix-axis-ip-camera"]
+	path = iot/ip-camera/zabbix-axis-ip-camera
+	url = https://github.com/Airler/zabbix-axis-ip-camera.git
